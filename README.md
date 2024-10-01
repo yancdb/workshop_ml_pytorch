@@ -1,4 +1,4 @@
-# Workshop de Aprendizado de Máquina com PyTorch
+# Workshop de Aprendizado de Máquina e Redes Neurais com Pytorch
 
 Este repositório contém todo o material necessário para acompanhar o workshop de **Aprendizado de Máquina utilizando PyTorch**. Ao final do workshop, você terá aprendido os conceitos básicos de machine learning e como implementá-los usando PyTorch.
 
